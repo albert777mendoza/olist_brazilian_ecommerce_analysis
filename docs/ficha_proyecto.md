@@ -1,11 +1,17 @@
-Nombre: Análisis de ventas y rentabilidad de un marketplace e-commerce (Olist)
+# Ficha del proyecto: Olist
 
-Especialidad: DA
+**Nombre:** Análisis de ventas y rentabilidad de un marketplace de comercio electrónico (Olist)
 
-Fuente: Brazilian E-Commerce Public Dataset by Olist (Kaggle)
+**Especialidad:** Data Analytics
 
-Link a la fuente: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+**Fuente de datos:** Brazilian E-Commerce Public Dataset by Olist (Kaggle)
 
-Link al proyecto publicado: el del repo, cuando lo renombres
+**Enlace a la fuente:** https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
-Objetivo: identificar qué categorías, regiones y vendedores impulsan los ingresos y dónde se pierde valor (entregas tardías, reseñas bajas, cancelaciones), para apoyar decisiones de la gerencia comercial sobre dónde invertir y qué corregir.
+**Enlace al repositorio:** https://github.com/albert777mendoza/olist_brazilian_ecommerce_analysis
+
+## Objetivo del proyecto
+
+Identificar qué categorías de productos, regiones y vendedores impulsan los ingresos y dónde se pierde valor, considerando factores como entregas tardías, reseñas negativas y cancelaciones.
+
+El propósito es generar información útil para apoyar las decisiones de la gerencia comercial sobre dónde invertir, qué procesos mejorar y qué oportunidades de negocio priorizar.
