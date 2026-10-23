@@ -642,8 +642,8 @@ Son líneas de acción para evaluar, no resultados probados por los datos:
 ## 8. Checklist antes de publicar
 
 - [x] README claro y completo.
-- [x ] Archivos organizados y sin versiones innecesarias.
-- [ ] Sin credenciales ni datos sensibles.
+- [x] Archivos organizados y sin versiones innecesarias.
+- [x] Sin credenciales ni datos sensibles.
 - [x] Enlace a la fuente original del dataset.
 - [x] Nombres y rutas de los scripts SQL comprobados contra los archivos reales de la carpeta `sql/`.
 - [x] Consultas SQL documentadas y verificadas.
