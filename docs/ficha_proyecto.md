@@ -641,13 +641,13 @@ Son líneas de acción para evaluar, no resultados probados por los datos:
 
 ## 8. Checklist antes de publicar
 
-- [ ] README claro y completo.
-- [ ] Archivos organizados y sin versiones innecesarias.
+- [x] README claro y completo.
+- [x ] Archivos organizados y sin versiones innecesarias.
 - [ ] Sin credenciales ni datos sensibles.
 - [x] Enlace a la fuente original del dataset.
-- [ ] Nombres y rutas de los scripts SQL comprobados contra los archivos reales de la carpeta `sql/`.
-- [ ] Consultas SQL documentadas y verificadas.
-- [ ] Resultados respaldados por consultas reproducibles.
+- [x] Nombres y rutas de los scripts SQL comprobados contra los archivos reales de la carpeta `sql/`.
+- [x] Consultas SQL documentadas y verificadas.
+- [x] Resultados respaldados por consultas reproducibles.
 - [x] Visualizaciones o dashboard terminado.
-- [ ] Proyecto publicado y accesible en GitHub.
-- [ ] Enlace compartido con el coach de TripleTen.
+- [x] Proyecto publicado y accesible en GitHub.
+- [] Enlace compartido con el coach de TripleTen.
