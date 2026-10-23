@@ -1,3 +1,27 @@
-data/*.csv
+
+# Datos originales: se consultan desde la fuente oficial
+data/
+docs/dataset/
+*.csv
+*.xlsx
+*.parquet
+*.zip
+
+# Power BI: archivos temporales y copias de respaldo
 *.pbix.bak
+*.pbit
+~$*.pbix
+
+# Python y Jupyter
+__pycache__/
 .ipynb_checkpoints/
+.venv/
+venv/
+
+# Credenciales y variables de entorno
+.env
+.env.*
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
